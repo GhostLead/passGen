@@ -61,6 +61,7 @@ namespace WpfAppPasswordGenerator
             
 
 
+
             for (int i = 0; i < hossz; i++)
             {
                 Random r = new();
